@@ -9,8 +9,6 @@
 
 - 📫 How to reach me **harsh5904fbd@gmail.com**
 
-- ⚡ Fun fact **I think I am funny.**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/__harsharma30__" target="blank"><img align="center" src="https://www.edigitalagency.com.au/wp-content/uploads/Twitter-logo-png.png" alt="__harsharma30__" height="30" width="40" /></a>
