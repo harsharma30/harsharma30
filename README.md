@@ -1,8 +1,5 @@
 <!--![logo](https://github.com/harsharma30/harsharma30/blob/main/cover%20jpg/cover%20jpg.png)-->
-<!--
-<video width="320" height="240" controls>
-  <source src="https://github.com/harsharma30/harsharma30/blob/main/cover%20mp4/cover%20mp4.mp4" type="video/mp4">
-</video>-->
+
 
 
 <h1 align="center">Hi 👋, I'm Harsh Sharma</h1>
