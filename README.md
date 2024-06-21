@@ -1,8 +1,11 @@
 
-https://github.com/harsharma30/harsharma30/assets/112812978/27804d02-19ba-4b9e-a3db-fc2dd7b3500e
+<!--https://github.com/harsharma30/harsharma30/assets/112812978/27804d02-19ba-4b9e-a3db-fc2dd7b3500e-->
+<img  alt="coding" src="https://github.com/harsharma30/harsharma30/blob/main/covergif.gif">
 
+<!--
 <h1 align="center">Hi 👋, I'm Harsh Sharma</h1>
 <h3 align="center">A passionate Data Science Student from India</h3>
+-->
 <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harsharma30&label=Profile%20views&color=0e75b6&style=flat" alt="harsharma30" /> </p>
 <img align="right" width="400" alt="coding" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
