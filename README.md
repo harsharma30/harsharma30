@@ -1,6 +1,5 @@
-<!--![logo](https://github.com/harsharma30/harsharma30/blob/main/cover%20jpg/cover%20jpg.png)-->
 
-
+https://github.com/harsharma30/harsharma30/assets/112812978/27804d02-19ba-4b9e-a3db-fc2dd7b3500e
 
 <h1 align="center">Hi 👋, I'm Harsh Sharma</h1>
 <h3 align="center">A passionate Data Science Student from India</h3>
