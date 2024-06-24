@@ -14,11 +14,11 @@
 
 <p align="left"> <a href="https://twitter.com/__harsharma30__" target="blank"><img src="https://img.shields.io/twitter/follow/__harsharma30__?logo=twitter&style=for-the-badge" alt="__harsharma30__" /></a> </p>
 <br><br>
-- 🌱 I’m currently learning **Tableau, Image processing...**
+-> 🌱 I’m currently learning **Tableau, Image processing...**
 
-- 📫 How to reach me **harsharma0013@gmail.com**
+-> 📫 How to reach me **harsharma0013@gmail.com**
 
-- ⚡ Fun fact **Only about 10% of the world’s currency is physical money, the rest only exists on computers.**
+-> ⚡ Fun fact **Only about 10% of the world’s currency is physical money, the rest only exists on computers.**
 <br><br><br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
