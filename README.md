@@ -43,7 +43,7 @@
 
 <br>
 
-<p><div align="center" class="GeneratedText">Watch the snake eating my GitHub Contribution....</div></p>
+<p><div align="center" class="GeneratedText">Watch! the snake eating my GitHub Contribution....</div></p>
 <hr>
 
 
