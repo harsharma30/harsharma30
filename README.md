@@ -45,7 +45,7 @@
 
 <br>
 
-<p><div align="center" class="GeneratedText">Watch! the snake eating my GitHub Contribution....</div></p>
+<h3><div align="center" class="GeneratedText">Watch! the snake eating my GitHub Contribution....</div></h3>
 <hr>
 
 
