@@ -62,7 +62,10 @@ code by harsharma30
 
   
   <h1>Trophies:</h1>
-  <img width=800 src="https://github-profile-trophy.vercel.app/?username=harsharma30&theme=alduin"/>
+  <!--<img width=800 src="https://github-profile-trophy.vercel.app/?username=harsharma30&theme=alduin"/>-->
+  <p align="center">
+  <img width="1500" height="100" src="https://github-profile-trophy.vercel.app/?username=harsharma30&theme=darkhub"/>
+    </p>
   <!--code by harsharma30-->
   <br>
 
@@ -77,7 +80,8 @@ code by harsharma30
 <img width="800" height="220" src="https://streak-stats.demolab.com?user=harsharma30&theme=highcontrast&hide_border=true&border_radius=5&card_width=800"></p>
 <p align="center">
   <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=harsharma30&show_icons=true&theme=vision-friendly-dark">
-  <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harsharma30&size_weight=0.0005&count_weight=0.3&layout=compact&theme=vision-friendly-dark">
+  <!--<img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harsharma30&size_weight=0.0005&count_weight=0.3&layout=compact&theme=vision-friendly-dark">-->
+  <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harsharma30&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
 </p>
 <!--<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harsharma30" alt="harsharma30" /></a> </p>-->
 <!--code by harsharma30-->
