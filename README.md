@@ -22,7 +22,7 @@ code by harsharma30
 
 
 <p align="center"> 
-🌱 I’m currently learning CPP and DSA <br>
+🌱 I’m currently learning JAVA and DSA <br>
 📫 How to reach me harsharma0013@gmail.com <br>
 ⚡ Fact: Destiny is waiting for you.
 
