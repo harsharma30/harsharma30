@@ -1,0 +1,21 @@
+name: Generate GitHub Metrics
+
+on:
+  schedule:
+    - cron: "0 0 * * *"  # Runs every day at midnight UTC
+  workflow_dispatch:  # Allows manual triggering
+
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Generate metrics
+        uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: harsharma30  # Change to your GitHub username
+          template: classic
+          base: header, activity, community, repositories, metadata
+          config_timezone: Asia/Kolkata  # Set to your time zone
+          plugin_streak: yes  # Enables streak stats
+          plugin_languages: yes  # Shows language usage
