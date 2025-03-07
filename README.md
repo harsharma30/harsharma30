@@ -91,7 +91,14 @@ code by harsharma30
 <br>
 <div align="center">
   <!--<img width="800" height="220" src="https://streak-stats.demolab.com?user=harsharma30&theme=highcontrast&hide_border=true&border_radius=5&card_width=800"></p>
-  <img width="800" height="220" src="https://github-readme-streak-stats.herokuapp.com/?user=harsharma30&theme=highcontrast&hide_border=true&border_radius=5&card_width=800"></p>-->
+  <img width="800" height="220" src="https://github-readme-streak-stats.herokuapp.com/?user=harsharma30&theme=highcontrast&hide_border=true&border_radius=5&card_width=800"></p>
+  ![GitHub Metrics](https://github.com/harsharma30/harsharma30/blob/main/github-metrics.svg)
+  ![GitHub Metrics](https://github.com/harsharma30/harsharma30/blob/main/github-metrics.svg)
+  -->
+
+  ![](https://github.com/harsharma30/harsharma30/blob/main/github-metrics.svg)
+
+
 
 <p align="center">
 
